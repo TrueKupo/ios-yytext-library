@@ -7,7 +7,8 @@ let package = Package(
     products: [
         .library(
             name: "YYText",
-            targets: ["YYText"]),
+            targets: ["YYText"]
+        ),
     ],
     targets: [
         .target(
